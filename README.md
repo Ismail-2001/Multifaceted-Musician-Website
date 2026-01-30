@@ -1,7 +1,5 @@
 # Aelion | Sonic Architect
 
-![Aelion Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
-
 ## 1. Project Overview
 **Aelion | Sonic Architect** is a premium, design-driven digital experience crafted for the modern multifaceted musician. It transcends the traditional portfolio by blending high-end aesthetics with generative AI and interactive 3D environments. Built for artists who bridge the gap between organic composition and digital synthesis, this platform serves as both a professional discography and an experimental creative laboratory.
 
